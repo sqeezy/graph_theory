@@ -8,5 +8,6 @@ namespace graph_theory
 {
     public class Edge
     {
+
     }
 }
